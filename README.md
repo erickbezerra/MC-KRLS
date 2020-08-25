@@ -1,5 +1,4 @@
 # MC-KRLS
-MULTIPLE CHALLENGERS KERNEL RECURSIVE LEAST-SQUARES CODES				
 
 | Kernels | Combined	Forecast | Delete Method | Acronym | File |
 | ------- | ------------------ | ------------- | ------- | ---- |
