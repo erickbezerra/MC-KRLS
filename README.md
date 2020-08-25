@@ -11,4 +11,4 @@
 | 2 | Weighted 	Mean (W) | Aging (A) | M2C-KRLSAW | Temp.mat |
 | 3 | Weighted 	Mean (W) | Aging (A) | M3C-KRLSAW | Temp.mat |
 
-Files were modified from the "Kernel Adaptive Filtering Toolbox", the original files are available at https://github.com/steven2358/kafbox
+Pieces of the code are from the [Kernel Adaptive Filtering Toolbox](https://github.com/steven2358/kafbox).
