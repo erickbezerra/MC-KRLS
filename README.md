@@ -12,3 +12,9 @@
 | 3 | Weighted 	Mean (W) | Aging (A) | M3C-KRLSAW | Temp.mat |
 
 Pieces of the code are from the [Kernel Adaptive Filtering Toolbox](https://github.com/steven2358/kafbox).
+
+Each model zip file contain:
+- The matlba file
+
+The file dataset.zip is used for every model and contains the normalized historical measures.
+
