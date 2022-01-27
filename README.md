@@ -18,3 +18,7 @@ Each model zip file contain:
 
 The file dataset.zip is used for every model and contains the normalized historical measures.
 
+# SOURCE
+
+[E. C. Bezerra, P. Pinson, R. P. S. Leão and A. P. S. Braga, "A Self-Adaptive Multikernel Machine Based on Recursive Least-Squares Applied to Very Short-Term Wind Power Forecasting," in IEEE Access, vol. 9, pp. 104761-104772, 2021, doi: 10.1109/ACCESS.2021.3099999.](https://ieeexplore.ieee.org/abstract/document/9495822).
+
