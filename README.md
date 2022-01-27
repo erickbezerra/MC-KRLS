@@ -11,8 +11,6 @@
 | 2 | Weighted 	Mean (W) | Aging (A) | M2C-KRLSAW | Temp.mat |
 | 3 | Weighted 	Mean (W) | Aging (A) | M3C-KRLSAW | Temp.mat |
 
-Pieces of the code are from the [Kernel Adaptive Filtering Toolbox](https://github.com/steven2358/kafbox).
-
 ### COMMON
 - Files that must be at the same folder of the model.
 
@@ -20,6 +18,7 @@ Pieces of the code are from the [Kernel Adaptive Filtering Toolbox](https://gith
 - Models using [ALD-KRLS](https://ieeexplore.ieee.org/abstract/document/1315946), [KRLS-T](https://ieeexplore.ieee.org/abstract/document/6227361) and [SW-KRLS](https://ieeexplore.ieee.org/abstract/document/1661394).
 
 :warning: The file normalized_dataset.zip is used for every model and contains the normalized historical measures.
+:information_source: Pieces of the code are from the [Kernel Adaptive Filtering Toolbox](https://github.com/steven2358/kafbox).
 
 ### SOURCE
 
