@@ -13,8 +13,11 @@
 
 Pieces of the code are from the [Kernel Adaptive Filtering Toolbox](https://github.com/steven2358/kafbox).
 
-Each model zip file contain:
-- The matlba file
+# COMMON
+- Files that must be at the same folder of the model.
+
+# KRLS / KRLS-T / SW-KRLS
+- Models using ALD-KRLS, KRLST and SW-KRLS
 
 The file dataset.zip is used for every model and contains the normalized historical measures.
 
