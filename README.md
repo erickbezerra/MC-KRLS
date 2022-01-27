@@ -17,7 +17,7 @@ Pieces of the code are from the [Kernel Adaptive Filtering Toolbox](https://gith
 - Files that must be at the same folder of the model.
 
 ### KRLS / KRLS-T / SW-KRLS
-- Models using ALD-KRLS, KRLST and SW-KRLS
+- Models using [ALD-KRLS](https://ieeexplore.ieee.org/abstract/document/1315946), [KRLS-T](https://ieeexplore.ieee.org/abstract/document/6227361) and [SW-KRLS](https://ieeexplore.ieee.org/abstract/document/1661394).
 
 :warning: The file normalized_dataset.zip is used for every model and contains the normalized historical measures.
 
